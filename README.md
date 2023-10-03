@@ -1,3 +1,3 @@
 # MEDHUB
-THIS IS MY MINI PROJECT
-hello
+This is mini project.Medhub is a website,basically as name suggested it is a medical website where you can search hospitals, bloodbanks,doctors and you can also book apointment of doctors and check their availability,so this is all in one medical website
+
